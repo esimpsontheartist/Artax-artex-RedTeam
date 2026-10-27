@@ -1,5 +1,7 @@
 # ARTEX
 
+(https://tse2.mm.bing.net/th/id/OIP.5fX7pbbQg37HKXFyM6W0lQHaE0?r=0&dpr=3&pid=ImgDetMain&o=7&rm=3)
+
 AI autonomous penetration testing system (Go backend + Next.js frontend)
 
 🌐 **Live Demo**: https://artex-demo.vercel.app/
