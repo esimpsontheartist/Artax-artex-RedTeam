@@ -1,6 +1,8 @@
-# ARTEX
+# Artax - ARTEX - Red Team v 0.1
 
-(https://tse2.mm.bing.net/th/id/OIP.5fX7pbbQg37HKXFyM6W0lQHaE0?r=0&dpr=3&pid=ImgDetMain&o=7&rm=3)
+
+![Artax Artex](https://th.bing.com/th/id/R.e5f5fba5b6d0837ec729717233a5b495?rik=j1GEGYHkjvFOuA&pid=ImgRaw&r=0)
+
 
 AI autonomous penetration testing system (Go backend + Next.js frontend)
 
